@@ -1,0 +1,52 @@
+/* Universal Styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: 'Work Sans', sans-serif;
+    font-size: 1em;
+    background-color: rgb(255,242,242);
+    padding: 5.25rem;
+  }
+  
+  /* Instructions */
+  .container h1 {
+    font-weight: bold;
+    font-size: 2.5rem;
+    color: rgb(32,64,86);
+  }
+  .flip-card{
+      width:100%;
+      margin: 0 auto;
+  }
+  .container h4 {
+    font-weight: bold;
+  }
+  
+  .container p {
+    color: rgb(74,74,74);
+  }
+  
+  /* Grid */
+  
+  .card {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(32,64,86);
+    color: rgb(255,255,255);
+    height: 12.5rem;
+    border: 4px solid #fff;
+    border-radius: 8px;
+    font-weight: 900;
+    font-size: 7rem;
+  }
+  
+  .card:hover {
+    cursor: pointer;
+  }
+  
