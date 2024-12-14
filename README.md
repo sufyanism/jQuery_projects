@@ -1,5 +1,4 @@
 
-https://github.com/user-attachments/assets/15f85a16-0eb6-4124-b70b-be10606f6b7e
 # Mini jQuery projects
 
 # Feature:
