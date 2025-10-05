@@ -1,10 +1,6 @@
 
 # Mini jQuery projects
 
-</br>
-
-## Feature:
-
 🖌️ **Project 1 (Flip Card):**  
 ``` An interactive flip card game designed to refresh your mind. Flip the cards to reveal fun challenges or facts and enjoy a quick mental refresh.```
 
