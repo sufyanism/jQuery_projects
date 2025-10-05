@@ -15,11 +15,8 @@
 
 </br>
 
-## Installtion
-No need to install anything just click on (HTML file) and will redirect to browser
-
 ## Further
-Add latest the version of jQuery CDN link
+Add latest the version of jQuery CDN link: `https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js`
 
 </br>
 
