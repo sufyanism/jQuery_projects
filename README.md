@@ -4,14 +4,15 @@
 </br>
 
 ## Feature:
-### Project1 (Flip Card):
-- Play game to feel fresh
 
-### Project2 (My Portfolio):
-- Edit it to make it your's Portfolio
+**Project 1 (Flip Card):**  
+An interactive flip card game designed to refresh your mind. Flip the cards to reveal fun challenges or facts and enjoy a quick mental refresh.
 
-### Project3 (To-do List):
-- Add your daily stuff to keep yourself update
+**Project 2 (My Portfolio):**  
+A customizable portfolio template that you can edit to showcase your skills, projects, and achievements. Make it personalized to reflect your unique style and professional profile.
+
+**Project 3 (To-do List):**  
+A simple task manager to jot down your daily tasks. Helps you stay organized and productive by keeping track of your to-dos and marking them as completed.
 
 </br>
 
